@@ -94,6 +94,13 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "name": "James Timms",
+            "email": "jtimms1998@gmail.com"
+          }
         }
       }
     }
